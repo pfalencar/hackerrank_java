@@ -41,7 +41,7 @@ package com.hackerrank.introduction;
 
 import java.util.*;
 
-public class A_Solution {
+public class StdinStdout {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
