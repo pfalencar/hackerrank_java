@@ -1,6 +1,6 @@
 package com.hackerrank.introduction;
 /**
- * Iniciado na URL: https://www.hackerrank.com/challenges/java-loops/problem?isFullScreen=true
+ * Enunciado na URL: https://www.hackerrank.com/challenges/java-loops/problem?isFullScreen=true
  *
  *
  * We use the integers , , and  to create the following series:
